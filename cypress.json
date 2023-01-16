@@ -1,0 +1,5 @@
+{
+"chromeWebSecurity": true,
+"modifyObstructiveCode": true,
+"fixturesFolder": "cypress/fixtures"
+}
